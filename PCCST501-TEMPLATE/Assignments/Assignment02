@@ -1,0 +1,31 @@
+# Assignment
+
+## Assignment 2
+
+### Title
+
+TCP Socket Programming – Client-Server Applications
+
+### Objective
+
+To understand and implement TCP socket programming using client-server communication.
+
+### Solution
+
+Separate TCP client and server programs are developed to perform various operations. The client sends the required data to the server, and the server processes the data and sends the results back to the client.
+
+The assignment includes:
+
+- Hello Client-Server
+- Arithmetic Server
+- String Processing Server
+- Array Processing Server
+- Matrix Analyzer
+
+### Output
+
+The client and server programs are executed successfully using two terminals. The client sends data to the server, the server performs the required operations, and the processed results are displayed by the client.
+
+### Conclusion
+
+TCP socket programming provides reliable communication between a client and server. The assignment demonstrates TCP communication, data transfer, string processing, array operations, arithmetic operations, and matrix operations.
